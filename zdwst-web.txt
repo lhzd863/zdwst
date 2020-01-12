@@ -10,5 +10,6 @@ npm install element-theme-default --save
 npm install --save react-markdown
 npm install --save redux react-redux redux-thunk
 npm install --save-dev redux-logger
+npm install --save react-hot-loader
 
 
