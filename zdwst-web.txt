@@ -5,8 +5,6 @@ npm install babel-plugin-import --save-dev
 npm install --save-dev less less-loader style-loader css-loader@0.28.7
 npm install -D raw-loader
 #按照package.json.txt修改内容
-npm i element-react --save
-npm install element-theme-default --save
 npm install --save react-markdown
 npm install --save redux react-redux redux-thunk
 npm install --save-dev redux-logger
