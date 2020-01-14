@@ -10,4 +10,5 @@ npm install --save redux react-redux redux-thunk
 npm install --save-dev redux-logger
 npm install --save react-hot-loader
 npm install antd --save
+npm i --save rc-form
 
